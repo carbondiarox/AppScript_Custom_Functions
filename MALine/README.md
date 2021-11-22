@@ -40,3 +40,7 @@
 ![image](https://user-images.githubusercontent.com/43199731/142760244-983d4cf2-ce05-4953-b386-e5acb7f91a89.png)
 ![image](https://user-images.githubusercontent.com/43199731/142760266-d5ce02dd-7279-4af2-9b5e-93ee925bc7be.png)
 ![image](https://user-images.githubusercontent.com/43199731/142759696-3dbbd1df-cf9a-4ef6-accc-dd8946c087a9.png)
+
+---
+## 捐贈 / Donate
+

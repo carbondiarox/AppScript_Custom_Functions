@@ -1,4 +1,4 @@
- # MALine  
+ # MALine(stock)  
 ---
 ## 功能 / Function
 

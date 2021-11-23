@@ -43,6 +43,10 @@
 
 ---
 ## 捐贈 / Donate
-![monero-logo](https://user-images.githubusercontent.com/43199731/142957954-be9f4325-4a70-458d-bee7-d3e317feaee2.png)
-![myQrCode](https://user-images.githubusercontent.com/43199731/142957960-f89c7669-5641-4949-bde1-6329f26e58b5.png)
+> 你的捐贈會轉為下一個項目的生產資源。 = w =
 
+> Your donations will be converted to productive resources for the next project. = w =
+
+![shut-up-take-my-money](https://user-images.githubusercontent.com/43199731/142959274-26a31bc9-d2e3-4a37-9d1f-fe0cea981788.gif)  
+![monero-logo](https://user-images.githubusercontent.com/43199731/142957954-be9f4325-4a70-458d-bee7-d3e317feaee2.png)  
+![GithubQR](https://user-images.githubusercontent.com/43199731/142958505-5557aa41-70df-4b03-8e1e-a2b93efe7d67.png)

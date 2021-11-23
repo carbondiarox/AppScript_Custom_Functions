@@ -43,4 +43,6 @@
 
 ---
 ## 捐贈 / Donate
+![monero-logo](https://user-images.githubusercontent.com/43199731/142957954-be9f4325-4a70-458d-bee7-d3e317feaee2.png)
+![myQrCode](https://user-images.githubusercontent.com/43199731/142957960-f89c7669-5641-4949-bde1-6329f26e58b5.png)
 
